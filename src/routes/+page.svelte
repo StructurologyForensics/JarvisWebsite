@@ -10,7 +10,4 @@
     <a href='/googleMaps'>
         <p>Satellite and Street View Images</p>
     </a>
-    <a href='/asce'>
-        <p>ASCE PDF Downloader</p>
-    </a>
 </div>
